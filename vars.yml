@@ -1,0 +1,6 @@
+app_name: blogsite
+
+# IMPORTANT: Replace the placeholder below with your target server's public IP address.
+server_name: YOUR_SERVER_IP_HERE
+
+document_root: /var/www/html
